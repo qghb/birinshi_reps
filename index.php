@@ -6,7 +6,7 @@ $person = [
 
 print_r($person);
 
-$qwe = '';
+$qwe = 'hghhg';
 
 if ($qwe) {
     echo 'yes';
